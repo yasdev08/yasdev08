@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasdev08 aka Yasser 
 - 👀 I’m interested in sports,reading books,learning new technologies, getting to know new people...
-- 🌱 I’m currently learning C++ and advanced data structures
-- 💞️ I’m looking to collaborate on beginner C/C++ projects
+- 🌱 I’m currently learning AI and ML together with backend development.
+- 💞️ I’m looking to collaborate projects.
 - 📫 How to reach me : instagram : yasserm.__ , or facebook : Yasser Mechrem
 
 <!---

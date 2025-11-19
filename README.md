@@ -38,6 +38,7 @@ Computer Vision • Information Theory / Entropy Analysis
 Data analysis & automation scripts
 
 📌 Featured Projects
+
 🔹 Scriptily — AI Script Generator for eCommerce
 
 AI-powered tool that generates high-converting scripts for TikTok Ads, Facebook Ads, and product videos.
@@ -57,13 +58,13 @@ Dynamic blog powered by CMS, App Router, TypeScript, and server components.
 
 🌍 Languages
 
-🇫🇷 French — Fluent
-🇬🇧 English — Fluent
+🇫🇷 French — B2
+🇬🇧 English — C1
 🇩🇿 Arabic — Native
 
 📫 Contact Me
 
-Portfolio: yasserm.vercel.app
+Portfolio: www.yasserm.vercel.app
 
 Email: yasser.mechrem29@gmail.com
 <!---

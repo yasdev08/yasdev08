@@ -27,13 +27,9 @@ Node.js • Prisma • MongoDB
 
 Convex • REST APIs • Webhooks
 
-Shopify App Development
-
 AI/ML
 
-Python • Scikit-Learn • NLP
-
-Computer Vision • Information Theory / Entropy Analysis
+Python  • Information Theory / Entropy Analysis
 
 Data analysis & automation scripts
 

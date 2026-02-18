@@ -60,7 +60,7 @@ Dynamic blog powered by CMS, App Router, TypeScript, and server components.
 
 📫 Contact Me
 
-Portfolio: www.yasserm.vercel.app
+Portfolio: yasserm.vercel.app
 
 Email: yasser.mechrem29@gmail.com
 <!---
